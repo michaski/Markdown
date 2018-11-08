@@ -31,7 +31,7 @@ W obecnej wersji kalkulator potrafi wykonywać następujące działania:
 1. Sprawdzenie znaku instrukcją switch
     * Wczytanie odpowiedniej liczby argumentów
 1. Obliczenie wyniku i wypisanie na ekran
-1. Czekaj na wprowadzenie znaku przez użytkownika, aby ten zdążył obejrzeć wynik
+1. Czekanie na wprowadzenie znaku przez użytkownika, aby ten zdążył obejrzeć wynik
 
 #### Wejście i wyjście
 
